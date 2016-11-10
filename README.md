@@ -7,8 +7,8 @@ An important special case of interest is solving signomial optimization problems
 
 For further details, we refer the reader to the following papers:
 
-V. Chandrasekaran and P. Shah, Relative Entropy Optimization and its Applications, Mathematical Programming, accepted. 
+1. V. Chandrasekaran and P. Shah, Relative Entropy Optimization and its Applications, Mathematical Programming, accepted. 
 [link: http://users.cms.caltech.edu/~venkatc/cs_rep_preprint.pdf]
 
-V. Chandrasekaran and P. Shah, Relative Entropy Relaxations for Signomial Optimization, SIAM Journal on Optimization, accepted. 
+2. V. Chandrasekaran and P. Shah, Relative Entropy Relaxations for Signomial Optimization, SIAM Journal on Optimization, accepted. 
 [link: http://users.cms.caltech.edu/~venkatc/cs_signomial_preprint.pdf]
