@@ -1,5 +1,5 @@
 # REO: A Relative-Entropy Optimization Solver
-This repository is authored and maintained by Parikshit Shah and Venkat Chandrasekaran.
+This repository is authored and maintained by Parikshit Shah and Venkat Chandrasekaran. This repository is currently under construction.
 
 The relative entropy function in a jointly convex function that appears in a diverse set of applications. Many optimization problems of interest involve the relative entropy cone (or equivalently, the exponential cone). In this code base we implement an interior-point method for solving relative entropy optimization problems.
 
